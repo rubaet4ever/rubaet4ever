@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/828/1*dGjxCWXLPf_aeRQRdyZklQ.png)]
+![MasterHead](https://miro.medium.com/max/828/1*dGjxCWXLPf_aeRQRdyZklQ.png)
 
 <h1 align="center">Hi 👋, I'm Rubaet Bin Qaiyum</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
