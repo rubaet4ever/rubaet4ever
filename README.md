@@ -1,32 +1,38 @@
-![SQA Engineer ll Salesforce ll Trailhead](https://media.licdn.com/dms/image/C5616AQFfnv-NjTmcAQ/profile-displaybackgroundimage-shrink_350_1400/0/1641201008514?e=1678320000&v=beta&t=UfXAlEJAw8ICTa7OmTDvkvVcye2-2huzcvg7NL2Hx9Q)
+[![MasterHead](https://miro.medium.com/max/828/1*dGjxCWXLPf_aeRQRdyZklQ.png)]
 
-### Hi there 👋, I'm Rubaet Bin Qaiyum
-#### SQA Engineer ll Salesforce ll Trailhead
-
+<h1 align="center">Hi 👋, I'm Rubaet Bin Qaiyum</h1>
+<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
+<h4 align="center">SQA Engineer ll Salesforce ll Trailhead</h4>
 
 Hi, I'm an SQA Engineer. In software development, I have more than 4 years of experience. Aiming to deliver the best possible quality product to exceed customer expectations and always advocating for a better user experience. I specialize in testing web, cloud, and mobile applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
 
-Skills: HTML / CSS / Bootstrap / Java
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about SDLC and STLC 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubaet4ever&label=Profile%20views&color=0e75b6&style=flat" alt="rubaet4ever" /> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rubaet4ever)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rubaet-bin-qaiyum/)  
+<p align="left"> <a href="https://twitter.com/iam_rbq" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rbq?logo=twitter&style=for-the-badge" alt="iam_rbq" /></a> </p>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 🔭 I’m currently working on **Web and Mobile Application**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rubaet4ever)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌱 I’m currently learning **JavaScript**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubaet4ever)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **SDLC & STLC**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubaet4ever&show_icons=true)  
+- 📫 How to reach me **rubaetqaiyum@gmail.com**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rubaet4ever)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iam_rbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_rbq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubaet-bin-qaiyum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubaet-bin-qaiyum/" height="30" width="40" /></a>
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/rubaet4ever)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rubaet4ever)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubaet4ever&show_icons=true&locale=en&layout=compact" alt="rubaet4ever" /></p>
 
-![Profile views](https://gpvc.arturio.dev/rubaet4ever)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubaet4ever&show_icons=true&locale=en" alt="rubaet4ever" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubaet4ever&" alt="rubaet4ever" /></p>
+
