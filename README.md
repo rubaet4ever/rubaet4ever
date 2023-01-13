@@ -21,6 +21,8 @@ Hi, I'm an SQA Engineer. In software development, I have more than 4 years of ex
 
 - 📫 How to reach me **rubaetqaiyum@gmail.com**
 
+- ⚡ Fun fact **Lemon Tea Tastes Way Better Than Coffee | Awestruck!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_rbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_rbq" height="30" width="40" /></a>
