@@ -13,7 +13,7 @@ Hi, I'm an SQA Engineer. In software development, I have more than 4 years of ex
 
 <p align="left"> <a href="https://twitter.com/iam_rbq" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rbq?logo=twitter&style=for-the-badge" alt="iam_rbq" /></a> </p>
 
-- 🔭 I’m currently working on **Web and Mobile Application**
+- 🔭 I’m currently working on **Web, Cloud and Mobile Application**
 
 - 🌱 I’m currently learning **JavaScript**
 
