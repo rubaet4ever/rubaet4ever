@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rubaet Bin Qaiyum</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
-<h4 align="center">SQA Engineer ll Salesforce ll Trailhead</h4>
+<h4 align="center">Software Quality Assurance Engineer</h4>
 
 Hi, I'm an SQA Engineer. In software development, I have more than 4 years of experience. Aiming to deliver the best possible quality product to exceed customer expectations and always advocating for a better user experience. I specialize in testing web, cloud, and mobile applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
 
