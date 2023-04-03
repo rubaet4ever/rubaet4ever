@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/828/1*dGjxCWXLPf_aeRQRdyZklQ.png)
 
 <h1 align="center">Hi 👋, I'm Rubaet Bin Qaiyum</h1>
-<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
+<h3 align="center">A Passionate SQA Engineer From Bangladesh</h3>
 <h4 align="center">Software Quality Assurance Engineer</h4>
 
 Hi, I'm an SQA Engineer. In software development, I have more than 4 years of experience. Aiming to deliver the best possible quality product to exceed customer expectations and always advocating for a better user experience. I specialize in testing web, cloud, and mobile applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
