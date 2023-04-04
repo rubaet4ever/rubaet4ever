@@ -15,7 +15,7 @@ Hi, I'm an SQA Engineer. In software development, I have more than 4 years of ex
 
 - 🔭 I’m currently working on **Web, Cloud and Mobile Application**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Automation Frameworks**
 
 - 💬 Ask me about **SDLC & STLC**
 
