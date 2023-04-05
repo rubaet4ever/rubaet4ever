@@ -1,5 +1,3 @@
-![MasterHead](https://miro.medium.com/max/828/1*dGjxCWXLPf_aeRQRdyZklQ.png)
-
 <h1 align="center">Hi 👋, I'm Rubaet Bin Qaiyum</h1>
 <h3 align="center">A Passionate SQA Engineer From Bangladesh</h3>
 <h4 align="center">Software Quality Assurance Engineer</h4>
@@ -15,7 +13,7 @@ Hi, I'm an SQA Engineer. In software development, I have more than 4 years of ex
 
 - 🔭 I’m currently working on **Web, Cloud and Mobile Application**
 
-- 🌱 I’m currently learning **Automation Frameworks**
+- 🌱 I’m currently deep learning **Automation Frameworks**
 
 - 💬 Ask me about **SDLC & STLC**
 
