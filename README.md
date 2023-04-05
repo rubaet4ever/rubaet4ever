@@ -23,7 +23,7 @@ Hi, I'm an SQA Engineer. In software development, I have more than 4 years of ex
 
 - ⚡ Fun fact **Lemon Tea Tastes Way Better Than Coffee | Awestruck!**
 
-- 🔭 I believe Quality is not an accident, but a result of constant efforts.
+- 🤝 I believe Quality is not an accident, but a result of constant efforts.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
