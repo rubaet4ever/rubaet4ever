@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate SQA Engineer From Bangladesh</h3>
 <h4 align="center">Software Quality Assurance Engineer</h4>
 
-Hi, I'm an SQA Engineer. In software development, I have more than 4 years of experience. Aiming to deliver the best possible quality product to exceed customer expectations and always advocating for a better user experience. I specialize in testing web, cloud, and mobile applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
+Hi, I'm an SQA Engineer. In software development, I have more than 4 years of experience. Aiming to deliver the best possible quality product to exceed customer expectations and always advocating for a better user experience. I specialize in testing web, cloud, and mobile (android & iOS) applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
