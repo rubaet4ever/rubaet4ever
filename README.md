@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Quality Assurance Engineer</h3>
 
 
-Hi, I'm an SQA Engineer. I have more than five years of experience in software development. I aim to deliver the best possible quality product to exceed customer expectations and always advocate for a better user experience. I specialize in testing web, cloud, and mobile (android & iOS) applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
+Hi, I'm an SQA Engineer. I have more than five years of experience in software development. I aim to deliver the best possible quality product to exceed customer expectations and always advocate for a better user experience. I specialize in testing web, cloud, staging, QA, and mobile (android & iOS) applications working with different bug-tracking systems, and especially enjoy finding tricky bugs. 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,7 +11,7 @@ Hi, I'm an SQA Engineer. I have more than five years of experience in software d
 
 <p align="left"> <a href="https://twitter.com/iam_rbq" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rbq?logo=twitter&style=for-the-badge" alt="iam_rbq" /></a> </p>
 
-- 🔭 I’m currently working on **Local, Web, staging and Mobile Application**
+- 🔭 I’m currently working on **Local, Web, Staging, DEV, QA and Mobile Applications**
 
 - 🌱 I’m currently deep learning **Automation Frameworks**
 
