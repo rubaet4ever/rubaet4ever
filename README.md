@@ -11,7 +11,7 @@ Hi, I'm an SQA Engineer. I have more than five years of experience in software d
 
 <p align="left"> <a href="https://twitter.com/iam_rbq" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rbq?logo=twitter&style=for-the-badge" alt="iam_rbq" /></a> </p>
 
-- 🔭 I’m currently working on **Local, Web, Staging, DEV, QA and Mobile Applications**
+- 🔭 I’m currently working on **Local, Web, Staging, DEV, QA and Mobile (Android & iOS) Applications**
 
 - 🌱 I’m currently deep learning **Automation Frameworks**
 
