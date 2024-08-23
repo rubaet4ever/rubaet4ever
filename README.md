@@ -13,7 +13,7 @@ Hi, I'm an SQA Engineer. I have more than five years of experience in software d
 
 - 🔭 I’m currently working on **Local, Web, Staging, DEV, QA and Mobile (Android & iOS) Applications**
 
-- 🌱 I’m currently deep learning **Automation Frameworks**
+- 🌱 I’m currently deep learning **Automation Frameworks & Tools**
 
 - 💬 Ask me about **SDLC & STLC**
 
