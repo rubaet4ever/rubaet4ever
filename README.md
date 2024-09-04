@@ -11,7 +11,7 @@ Hi, I'm an SQA Engineer. I have more than five years of experience in software d
 
 <p align="left"> <a href="https://twitter.com/iam_rbq" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rbq?logo=twitter&style=for-the-badge" alt="iam_rbq" /></a> </p>
 
-- 🔭 I’m currently working on **Local, Web, Staging, DEV, QA and Mobile (Native & Flutter) Applications**
+- 🔭 I’m currently working on **Local, Web, Staging, DEV, QA, and Mobile (Native & Flutter) Applications**
 
 - 🌱 I’m currently deep learning **Automation Frameworks & Tools**
 
@@ -26,7 +26,7 @@ Hi, I'm an SQA Engineer. I have more than five years of experience in software d
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_rbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_rbq" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rubaet-bin-qaiyum/" target="blank"><img align="center" src="https://images.app.goo.gl/Noxp1K6Th5R9RrX46" alt="rubaet-bin-qaiyum" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubaet-bin-qaiyum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubaet-bin-qaiyum/" height="30" width="40" /></a>
 
 </p>
 
