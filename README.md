@@ -5,7 +5,7 @@
 Hi, I'm an SQA Engineer. I have more than five years of experience in software development. I aim to deliver the best product to exceed customer expectations and always advocate for a better user experience. I specialize in testing web, cloud, staging, QA, and mobile (android & iOS) applications working with different bug-tracking systems, and I especially enjoy finding tricky bugs. 
 
 
-<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://images.app.goo.gl/Noxp1K6Th5R9RrX46)](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
+<img align="right" alt="Coding" width="400" src="[[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://images.app.goo.gl/Noxp1K6Th5R9RrX46)](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWwwaWxydTRnb3A0djMxbXowOTV6enFqZ2Y1cHl5aDFzNXd2YzR0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubaet4ever&label=Profile%20views&color=0e75b6&style=flat" alt="rubaet4ever" /> </p>
 
