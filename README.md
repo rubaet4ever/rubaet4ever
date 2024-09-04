@@ -5,7 +5,7 @@
 Hi, I'm an SQA Engineer. I have more than five years of experience in software development. I aim to deliver the best product to exceed customer expectations and always advocate for a better user experience. I specialize in testing web, cloud, staging, QA, and mobile (android & iOS) applications working with different bug-tracking systems, and I especially enjoy finding tricky bugs. 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://images.app.goo.gl/Noxp1K6Th5R9RrX46)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubaet4ever&label=Profile%20views&color=0e75b6&style=flat" alt="rubaet4ever" /> </p>
 
