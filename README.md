@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Software Quality Assurance Engineer</h3>
 
 
-Hi, I'm an SQA Engineer. I have more than five years of experience in software development. I aim to deliver the best product to exceed customer expectations and always advocate for a better user experience. I specialize in testing web, cloud, staging, QA, and mobile (android & iOS) applications working with different bug-tracking systems, and I especially enjoy finding tricky bugs. 
+Hi, I'm an SQA Engineer with more than five years of experience in software development. Aim to deliver the best product to exceed customer expectations and always advocate for a better user experience. Specialized in testing web, cloud, staging, QA, and mobile (Android & iOS) applications, working with different bug-tracking systems, and I especially enjoy finding tricky bugs. 
 
 
-<img alt="Computer Programming" width="450" height="375" loading="eager" role="programming" align="right" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODkzOTQ0NjksIm5iZiI6MTc4OTM5NDE2OSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE0VDEzNTYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmMTZmYzNhZmU3MzdmMGE2Njk5YjU3MzRlM2JmZjRjM2JjNGU5NjcwNGQyZDNlNThmMjI3ZWFjNDBkMDkyMWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.GkcjNzBsfRJ1jKQ2O6UCNV6ogrZg_Z_MaQTF8hAX_Lc">
+<img alt="Computer Programming" width="450" height="375" loading="eager" role="programming" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubaet4ever&label=Profile%20views&color=0e75b6&style=flat" alt="rubaet4ever" /> </p>
 
