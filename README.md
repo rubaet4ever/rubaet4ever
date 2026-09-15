@@ -21,12 +21,12 @@ Hi, I'm an SQA Engineer with more than five years of experience in software deve
 
 - ⚡ Fun fact **Lemon Tea Tastes Way Better Than Coffee | Awestruck!**
 
-- 🤝 I believe Quality is not an accident, but a result of constant efforts.
+- 🤝 I believe Quality is not an accident, but a result of constant effort.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_rbq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_rbq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rubaet-bin-qaiyum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubaet-bin-qaiyum/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rubaet-bin-qaiyum/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rubaet-bin-qaiyum/" height="30" width="40" /></a>
 
 </p>
 
