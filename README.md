@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Quality Assurance Engineer</h3>
 
 
-Hi, I'm an SQA Engineer with more than five years of experience in software development. Aim to deliver the best product to exceed customer expectations and always advocate for a better user experience. Specialized in testing web, cloud, staging, QA, and mobile (Android & iOS) applications, working with different bug-tracking systems, and I especially enjoy finding tricky bugs. 
+Hi, I'm an SQA Engineer with six years of experience in software development. Aim to deliver the best product to exceed customer expectations and always advocate for a better user experience. Specialized in testing web, cloud, staging, QA, and mobile (Android & iOS) applications, working with different bug-tracking systems, and I especially enjoy finding tricky bugs. 
 
 
 <img alt="Computer Programming" width="450" height="375" loading="eager" role="programming" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">
